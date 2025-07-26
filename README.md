@@ -29,7 +29,7 @@ PerpustakaanMini adalah Perpustakaan Management System berbasis web yang dikemba
 
 1. **Clone atau Unduh Project**
    ```bash
-   git clone https://github.com/FadilAdz/InvoiceWeb.git
+   git clone (https://github.com/RaulPutraWidodo/PerpustakaanMini.git)
 ````
 
 2. **Letakkan Folder di XAMPP**
@@ -71,27 +71,24 @@ PerpustakaanMini adalah Perpustakaan Management System berbasis web yang dikemba
 ## 📸 Screenshot Tampilan
 
 ### 1. Halaman Login
-![image](invoice/login.png)
+![image](login.png)
 Form untuk user melakukan login ke sistem.
 
-### 2. Halaman Dashboard
-![image](invoice/dashbord.png)
-Tampilan utama setelah login berisi ringkasan data dan navigasi ke menu lainnya.
+### 2. Halaman Register
+![image](register.png)
+Tampilan register untuk membuat akun
 
-### 3. Invoice List
-![image](invoice/invoice.png)
-Menu untuk melihat daftar seluruh invoice yang telah dibuat.
+### 3. Halaman Beranda
+![image](beranda.png)
+Tampilan awal Halaman Beranda setelah melakukan login
 
-### 4. Customer List
-![image](invoice/customer.png)
-Menu untuk melihat dan mengelola daftar customer.
+### 4. Halaman Tambah Buku
+![image](tambahbuku.png)
+Halaman untuk menambah buku baru
 
-### 5. Product List
-![image](invoice/produk.png)
-Menu untuk melihat dan mengelola daftar produk.
+### 5. Halaman Daftar Buku
+![image](daftarbuku.png)
+Halaman untuk menampilkan daftar buku
 
-### 6. User List
-![image](invoice/user.png)
-Menu untuk melihat dan mengelola daftar user yang memiliki akses ke sistem.
 
 ---
