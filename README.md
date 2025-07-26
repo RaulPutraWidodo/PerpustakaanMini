@@ -60,9 +60,15 @@ PerpustakaanMini adalah Perpustakaan Management System berbasis web yang dikemba
 5. **Jalankan xampp dan start Apache dan MySQL**
  
 7. **Buka CMD dan letakkan ke folder**
- ```cd C:\xampp\htdocs\perpustakaanmini```
+   
+ ```
+cd C:\xampp\htdocs\perpustakaanmini
+```
+
 lalu jalankan perintah
-```php spark serve```
+```
+php spark serve
+```
  
 10. **Jalankan Aplikasi di Browser**
    Akses melalui URL:
