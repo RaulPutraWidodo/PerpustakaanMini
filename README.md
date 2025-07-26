@@ -29,7 +29,7 @@ PerpustakaanMini adalah Perpustakaan Management System berbasis web yang dikemba
 
 1. **Clone atau Unduh Project**
    ```bash
-   git clone (https://github.com/RaulPutraWidodo/PerpustakaanMini.git)
+   git clone https://github.com/RaulPutraWidodo/PerpustakaanMini.git
 ````
 
 2. **Letakkan Folder di XAMPP**
